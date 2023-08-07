@@ -1,0 +1,21 @@
+
+JugadorA | 2 | 6
+JugadorB | 3 | 5
+
+JugadorA | 3 | 5
+JugadorB | 4 | 2
+JugadorA
+
+JugadorA | 5 | 6
+JugadorB | 2 | 1
+JugadorA
+
+JugadorA | 2 | 1
+JugadorB | 3 | 2
+JugadorB
+
+JugadorA | 1 | 3
+JugadorB | 5 | 2
+JugadorB
+
+GANADOR JugadorB

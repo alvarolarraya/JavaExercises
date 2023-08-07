@@ -1,0 +1,3 @@
+Mikel|Martinez|01/01/2000|Tos seca,Nauseas
+Fermin|Navarro|01/01/1940|Cansancio,Fiebre,Nauseas
+
